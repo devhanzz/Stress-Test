@@ -1,6 +1,6 @@
 const { Client } = require('undici');
 
-const TARGET_URL = 'https://example.com';
+const TARGET_URL = 'https://visitor-live-counter.onrender.com';
 const TOTAL_REQUESTS = 1000;
 const CONCURRENT_LIMIT = 50;
 
